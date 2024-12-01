@@ -1,4 +1,4 @@
-### Hi Welcome, i'm HyeongSeo Park 👋
+### HyeongSeo Park
 
 ### Web Backend Developer
 
