@@ -1,5 +1,3 @@
-### HyeongSeo Park
-
 ### Web Backend Developer
 
 🛠️ Stacks
